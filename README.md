@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Cristiane Fernandes</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+# Olá! 👋 Sou uma Desenvolvedora Backend .NET C#!
 
-- 🔭 I’m currently working on **.NET**
+## Sobre Mim
+Olá! Meu nome é Cris, e sou uma desenvolvedora backend apaixonada por .NET C#. Tenho experiência em desenvolvimento de aplicativos web e API usando ASP.NET Core, Entity Framework, SQL Server e outras tecnologias do ecossistema .NET. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de programação.
 
-- 🌱 I’m currently learning **Python**
+## Habilidades
+- Linguagens: C#, SQL
+- Frameworks: ASP.NET Core, Entity Framework Core
+- Bancos de Dados: SQL Server, PostgreSQL, MySQL
+- Ferramentas: Visual Studio, Visual Studio Code, Git, Postman
 
-- 👯 I’m looking to collaborate on **.NET**
+## Projetos Recentes
+- [Nome do Projeto](link): Breve descrição do projeto e tecnologias utilizadas.
+- [Nome do Projeto](link): Breve descrição do projeto e tecnologias utilizadas.
+- [Nome do Projeto](link): Breve descrição do projeto e tecnologias utilizadas.
 
-- 🤝 I’m looking for help with **React**
+## Contribuições
+- Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Entre em Contato:</h3>
 <p align="left">
+
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristianepfernandes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/cristianepfernandes/" height="30" width="40" /></a>
 </p>
 
