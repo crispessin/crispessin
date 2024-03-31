@@ -10,9 +10,7 @@ Olá! Meu nome é Cris, e sou uma desenvolvedora backend apaixonada por .NET C#.
 - Ferramentas: Visual Studio, Visual Studio Code, Git, Postman
 
 ## Projetos Recentes
-- [Nome do Projeto](link): Breve descrição do projeto e tecnologias utilizadas.
-- [Nome do Projeto](link): Breve descrição do projeto e tecnologias utilizadas.
-- [Nome do Projeto](link): Breve descrição do projeto e tecnologias utilizadas.
+- [Projetos](https://github.com/crispessin?tab=repositories).
 
 ## Contribuições
 - Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
