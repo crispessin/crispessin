@@ -20,11 +20,7 @@ Olá! Sou a Cris, e sou uma desenvolvedora backend apaixonada por .NET C#. Tenho
 ## Projetos Recentes
 - [Projetos](https://github.com/crispessin?tab=repositories).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carloseduardofernandes/carloseduardofernandes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carloseduardofernandes/carloseduardofernandes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carloseduardofernandes/carloseduardofernandes/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 ## Contribuições
 - Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
