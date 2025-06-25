@@ -1,4 +1,4 @@
-# Olá! 👋 Sou uma Desenvolvedora Backend .NET C#!
+# Desenvolvedora Backend .NET C#!
 
 ## Sobre Mim
 Olá! Sou a Cris, e sou uma desenvolvedora backend apaixonada por .NET C#. Tenho experiência em desenvolvimento de aplicativos web e API usando ASP.NET Core, Entity Framework, SQL Server e outras tecnologias do ecossistema .NET. Estou sempre em busca de aprender novas tecnologias e melhorar minhas habilidades de programação.
